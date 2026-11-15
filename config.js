@@ -1,12 +1,12 @@
 export const CONFIG = {
-  CLIENT_ID: "CLIENTID",
-  PIXEL_ID: "0000000000000000",
-  BACKUP_LINK: "https://t.me/+bnbzc3Kn0x44ZTc1",
+  CLIENT_ID: "VECTRIX",
+  PIXEL_ID: "1049344494844247",
+  BACKUP_LINK: "https://t.me/+NwQd3WRzPKA4MGY1",
   HELPER_URL: "https://app.kapitrack.site",
 
-  CHANNEL_NAME: "Kapi-Track",
-  CHANNEL_TAGLINE: "OFFICIAL TELEGRAM CHANNEL",
-  AVATAR_IMAGE_URL: "avatar.jpg",
+  CHANNEL_NAME: "PRIME CRYPTO",
+  CHANNEL_TAGLINE: "💸 Get Money First • Then Give USDT",
+  AVATAR_IMAGE_URL: "new.jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
   JOIN_BUTTON_TEXT: "Join Now",

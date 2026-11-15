@@ -5,7 +5,7 @@ export const CONFIG = {
   HELPER_URL: "https://app.kapitrack.site",
 
   CHANNEL_NAME: "PRIME CRYPTO",
-  CHANNEL_TAGLINE: "💸 Get Money First • Then Give USDT",
+  CHANNEL_TAGLINE: "💸 Take Payment First • Then Give USDT",
   AVATAR_IMAGE_URL: "new.jpg",
   FOOTER_ICON_URL: "avatar.jpg",
   FAVICON_URL: "avatar.jpg",
